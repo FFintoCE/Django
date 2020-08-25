@@ -1,0 +1,2 @@
+# Django
+Azure app
